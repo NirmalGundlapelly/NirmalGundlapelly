@@ -24,7 +24,7 @@
 
 
 # Most Used Languages :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalGundlapelly&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalGundlapelly&layout=compact)](https://github.com/NirmalGundlapelly/github-readme-stats)
 
 # Stats :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NirmalGundlapelly&show_icons=true&theme=radical)
