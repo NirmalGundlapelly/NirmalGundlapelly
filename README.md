@@ -28,3 +28,6 @@
 
 # Stats :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NirmalGundlapelly&show_icons=true&theme=radical)
+
+# Nxt Wave Progress:
+<img src="https://cdn1.ccbp.in/misc/New-Year-2023/SXKI5I6VQX.png"/>
